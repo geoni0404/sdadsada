@@ -198,7 +198,7 @@ li{
 }
 .bg{
     height: 1000px;
-    background: url(/OIP.jpg) no-repeat;
+    background: url(OIP.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
